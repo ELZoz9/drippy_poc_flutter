@@ -1,16 +1,21 @@
-# flutter_application_1
+# Drippy — Proof of Concept (10%)
 
-A new Flutter project.
+This repository contains the 10% proof of concept for the **Drippy E-Commerce Mobile App with a Virtual Fitting Room**, developed using **Flutter**.
 
-## Getting Started
+## 🎯 Features Implemented
+- Splash screen
+- 3 Onboarding screens
+- Login / Signup / Guest navigation
+- Home screen with banners, categories, and products
+- Drawer navigation (Home, Wishlist, Profile, Brands)
+- Placeholder for future Virtual Fitting Room
 
-This project is a starting point for a Flutter application.
+## 🧠 About the Project
+This is a 10% proof of concept for graduation purposes, showing UI, navigation flow, and the overall system design.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Install [Flutter SDK](https://flutter.dev/docs/get-started/install)
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/ELZoz9/drippy_poc_flutter.git
+by ziad ahmed ali
